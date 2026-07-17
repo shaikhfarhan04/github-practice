@@ -1,0 +1,10 @@
+*.log
+*.pyc
+__pycache__/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+bin/
+obj/
+target/
+node_modules/
